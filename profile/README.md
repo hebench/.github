@@ -7,3 +7,8 @@ To get started, visit [HEBench home](https://hebench.github.io/) and our top rep
 For a list of available backends, visit [Published Backends](https://hebench.github.io/hebench_published_backends.html).
 
 Find the complete reference to HEBench in the [Documentation](https://hebench.github.io/frontend).
+
+<br/>
+<hr/>
+
+Policies and procedures that manage the HEBench project and community can be found in the [Governance document](https://hebench.github.io/governance.html).
